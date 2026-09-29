@@ -1,0 +1,27 @@
+# R and IDE files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Downloaded source data
+Burnham_sepsis_discovery_normalised_231.txt
+E-MTAB-5273.sdrf.txt
+E-MTAB-5273.idf.txt
+GSE236713_series_matrix.txt
+GSE236713_series_matrix.txt.gz
+GPL17077*.txt
+GPL17077*.gz
+
+# Temporary downloads
+*.part
+
+# Generated analysis outputs
+/outputs_publication/
+/tables/
+/figures/

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and software release."
+title: "Sepsis longitudinal transcriptomics analysis code"
+type: software
+authors:
+  - family-names: "Zhang"
+    given-names: "Zhixiang"
+  - family-names: "Shi"
+    given-names: "Fei"
+version: 1.0.0
+license: MIT
+keywords:
+  - sepsis
+  - whole-blood transcriptomics
+  - longitudinal analysis
+  - HLA class II
+  - T-cell dysfunction
