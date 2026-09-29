@@ -97,3 +97,7 @@ The complete pipeline was successfully reproduced under R 4.5.0 on Windows 11. P
 ## License
 
 This code is released under the MIT License. See `LICENSE`.
+
+## Archive
+
+Version v1.0.0 is archived on Zenodo: https://doi.org/10.5281/zenodo.23035075
