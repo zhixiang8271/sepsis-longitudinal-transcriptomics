@@ -103,7 +103,7 @@ theme_s3 <- theme_classic(base_size = 10, base_family = "sans") +
             margin = margin(b = 5)
         ),
         plot.tag = element_text(size = 12, face = "bold"),
-        plot.tag.position = c(-0.07, 1.03),
+        plot.tag.position = c(0, 1.03),
         legend.position = "none",
         plot.margin = margin(8, 12, 8, 12)
     )
